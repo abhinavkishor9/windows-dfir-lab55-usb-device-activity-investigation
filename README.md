@@ -1,3 +1,5 @@
+# windows-dfir-lab55-usb-device-activity-investigation
+
 A Windows endpoint has been flagged for possible removable-media usage during routine forensic review.
 
 No confirmed USB insertion event is available, and the commonly referenced USBSTOR Registry location is not present on the system. The analyst therefore cannot rely on a single artifact to determine whether a removable device was used.
